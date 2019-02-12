@@ -12,7 +12,7 @@ Archivos de configuración para una máquina virtual con Oracle Database 12.1.0.
 	- linuxamd64_12c_database_1of2.zip 
 	- linuxamd64_12c_database_2of2.zip
 	
-   * Requiere registrarse y aceptar el acuerdo de licencia
+* Requiere registrarse y aceptar el acuerdo de licencia
 
 5. Mover los dos archivos zip descargados en la carpeta [oracle12ee](./oracle12ee/), sin descomprimir ni crear ningún subdirectorio adicional.
 6. Ejecutamo el siguiente comando `vagrant up` en la carpeta que contiene el Vagrantfile.
