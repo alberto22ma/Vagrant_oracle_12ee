@@ -54,7 +54,7 @@ vagrant destroy
 ```bash
 vagrant ssh
 ```
-###*En Windows hay que tener un cliente SSH para que este comando funcione. Se puede instalar el cliente de [Git][6] y utilizar el shell que proporciona, que incluye SSH.
+*En Windows hay que tener un cliente SSH para que este comando funcione. Se puede instalar el cliente de [Git][6] y utilizar el shell que proporciona, que incluye SSH.
 
 [1]: https://www.vagrantup.com/downloads.html
 [2]: https://www.virtualbox.org/wiki/Downloads
